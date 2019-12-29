@@ -1,0 +1,9 @@
+{
+    "name": "space-exploration-bobores-core",
+    "version": "1.0",
+    "title": "Space Exploration Bobores Core Mining Rebalance",
+    "author": "Lunarage",
+    "factorio_version": "0.17",
+    "dependencies": ["space-exploration","bobores"],
+    "description": "Rebalance the output of bobs ores from Space Exploration Core Mining"
+}
