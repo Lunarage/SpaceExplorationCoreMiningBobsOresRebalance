@@ -5,5 +5,5 @@
     "author": "Lunarage",
     "factorio_version": "0.17",
     "dependencies": ["space-exploration","bobores"],
-    "description": "Rebalance the output of bobs ores from Space Exploration Core Mining"
+    "description": "Rebalance the output of bobs ores from Space Exploration Core Mining. Currently removes bob's ores from omni recipe."
 }
