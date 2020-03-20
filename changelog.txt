@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.18.1
+Date: 20. 03. 2020
+  Changes:
+    - Made the removal of ores and fluids less aggressive. It now
+    specifically removes bob's ores and fluids and not everything not
+    vanilla.
+---------------------------------------------------------------------------------------------------
+Version: 1.18.0
+Date: 18. 03. 2020
+  Changes:
+    - Updated to factorio verision 0.18
